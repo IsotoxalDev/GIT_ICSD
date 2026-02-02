@@ -3,6 +3,7 @@
 Modified by:
   1. Abhinav Kuruvila
   2. T Aakash
-  3. S Anirudh
-  4. M Taufeeq
-  5. Guha Saravanan D K
+  3. A Hrishikesh
+  4. S Anirudh
+  5. M Taufeeq
+  6. Guha Saravanan D K
